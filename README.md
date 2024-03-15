@@ -1,6 +1,6 @@
 # Aman062003.github.io
 <h2 align="left">Hi 👋! My name is Aman Mandal. and I'm a MERN STACK DEVELOPER, from Delhi.</h2>
-https://assets.leetcode.com/static_assets/others/LeetCode_75.png
+<img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.png" />
 ###
 
 <div align="right">
